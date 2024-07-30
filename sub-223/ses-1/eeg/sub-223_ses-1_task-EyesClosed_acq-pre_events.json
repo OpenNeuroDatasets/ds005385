@@ -1,0 +1,13 @@
+{
+  "onset": {
+    "Description": "Onset of event triggers",
+    "Units": "ms"
+  },
+  "duration": {
+    "Description": "Duration of event triggers"
+  },
+  "type": {
+    "Description": "Type of event triggers",
+    "Units": "string"
+  }
+}

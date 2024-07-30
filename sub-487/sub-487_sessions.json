@@ -1,0 +1,10 @@
+{
+  "session_id": {
+    "Description": "id of the sessions performed by the subject",
+    "Units": "ses-1, ses-2"
+  },
+  "recording_year": {
+    "Description": "year of recording",
+    "Units": "year"
+  }
+}
