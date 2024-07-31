@@ -10,7 +10,7 @@
     ],
     "Acknowledgements": "The study is endorsed by German Center for Mental Health (DZPG). Dataset created with the help of: bids-matlab (see References). We are grateful to the technical staff at IfADo for data collection and to all participants of the Dortmund Vital Study",
     "HowToAcknowledge": "please cite:",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005385.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005385.v1.0.1",
     "Funding": [
         "The Dortmund Vital Study is funded by the institute’s budget (no grant number). ...Thus, the study design, collection, management, analysis, interpretation of data, writing ...of the report, and the decision to submit the report for publication is not influenced or ...biased by any sponsor."
     ],
