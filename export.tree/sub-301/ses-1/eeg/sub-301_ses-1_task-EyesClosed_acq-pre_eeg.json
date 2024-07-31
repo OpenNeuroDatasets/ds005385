@@ -1,0 +1,21 @@
+{
+  "TaskName": "RestingState",
+  "TaskDescription": "participants had to sit still in the laboratory. sequences of 3 minutes were recorded with eyes open closed and eyes closed open, respectively. Both recordings were performed either before (acq-pre) or and after (acq-post) a battery of neurocognitive experiments (duration about 2 hours). Session 1 (first measurement) and session 2 (first follow-up) were performed with a time lag of about 5 years",
+  "InstitutionName": "Leibniz Research Centre for Working Environment and Human Factors",
+  "InstitutionAddress": "Dortmund, Germany",
+  "InstitutionalDepartmentName": "Ergonomics",
+  "Manufacturer": "BrainProducts",
+  "ManufacturersModelName": "BrainAmp DC",
+  "CapManufacturer": "EasyCap",
+  "CapManufacturersModelName": "actiCAP 64",
+  "RecordingDuration": 192,
+  "RecordingType": "continuous",
+  "EEGPlacementScheme": "10-20",
+  "EEGReference": "FCz",
+  "SamplingFrequency": 1000,
+  "SoftwareFilters": "n/a",
+  "EEGChannelCount": 64,
+  "EOGChannelCount": 0,
+  "PowerLineFrequency": 50,
+  "EEGGround": "electrode placed at AFz"
+}
