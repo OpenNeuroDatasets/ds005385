@@ -15,7 +15,7 @@ Stephan Getzmann, IfADo, getzmann@ifado.de, ORCID: 0000-0002-6382-0183
 
 - [x] Practical information to access the data
 
-The data are provided at OpenNeuro (dataset accession number: xxx, version xxx, DOI: xxx https://xxx) in BIDS format.
+The data are provided at OpenNeuro (dataset accession number: ds005385, DOI: https://doi.org/10.18112/openneuro.ds005385.v1.0.0) in BIDS format.
 
 ## Overview
 
