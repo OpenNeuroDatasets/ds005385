@@ -8,7 +8,7 @@
         "Patrick D. Gajewski",
         "Stephan Getzmann"
     ],
-    "Acknowledgements": "The study is endorsed by German Center for Mental Health (DZPG). Dataset created with the help of: bids-matlab (see References). We are grateful to the technical staff at IfADo for data collection and to all participants of the Dortmund Vital Study",
+    "Acknowledgements": "The study is endorsed by German Center for Mental Health (DZPG). Dataset created with the help of: bids-matlab (see References). We are grateful to the technical staff at IfADo for data collection and to all participants of the Dortmund Vital Study.",
     "HowToAcknowledge": "please cite:",
     "DatasetDOI": "doi:10.18112/openneuro.ds005385.v1.0.1",
     "Funding": [
