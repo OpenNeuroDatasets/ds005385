@@ -1,0 +1,21 @@
+{
+    "Name": "Resting-state EEG data before and after cognitive activity across the adult lifespan and a 5-year follow-up",
+    "BIDSVersion": "1.9.0",
+    "License": "CC0",
+    "Authors": [
+        "Edmund Wascher",
+        "Daniel Schneider",
+        "Patrick D. Gajewski",
+        "Stephan Getzmann"
+    ],
+    "Acknowledgements": "The study is endorsed by German Center for Mental Health (DZPG). Dataset created with the help of: bids-matlab (see References). We are grateful to the technical staff at IfADo for data collection and to all participants of the Dortmund Vital Study.",
+    "HowToAcknowledge": "please cite:",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005385.v1.0.3",
+    "Funding": [
+        "The Dortmund Vital Study is funded by the institute’s budget (no grant number). Thus, the study design, collection, management, analysis, interpretation of data, writing of the report, and the decision to submit the report for publication is not influenced or biased by any sponsor."
+    ],
+    "ReferencesAndLinks": [
+        "Gajewski, P. D., Getzmann, S., Bröde, P., Burke, M., ...Cadenas, C., Capellino, S., Claus, M., Genç, E., Golka, K., Hengstler, J. G., ...Kleinsorge, T., Marchan, R., Nitsche, M. A., Reinders, J., van Thriel, C., Watzl, C., ...& Wascher, E. (2022). Impact of Biological and Lifestyle Factors on Cognitive ...Aging and Work Ability in the Dortmund Vital Study: Protocol of an Interdisciplinary, ...Cross-sectional, and Longitudinal Study. JMIR Research Protocols, 11(3), e32352. https://doi.org/10.2196/32352",
+        "Gau, R., Flandin, G., Janke, A. , Oostenveld, R., Madan, C., Niso Galán, G., Szczepanik, M., Mutsaerts, H., Beliy, N., Norgaard, M., Pernet, C., & Chrisophe, P. bids-matlab (Version 0.1.0) https://github.com/bids-standard/bids-matlab"
+    ]
+}
