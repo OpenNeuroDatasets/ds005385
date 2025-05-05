@@ -108,5 +108,4 @@ The measurements took place at the Leibniz Research Centre for Working Environme
 
 ### Notes
 
-n/a
-
+Please note that the physical max/min specifications in the header of the EDF files may contain invalid values. These should be ignored.
